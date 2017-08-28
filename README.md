@@ -1,2 +1,4 @@
 # hello-world
-a beautiful playground for curious coder
+
+Do you know all color in rainbow ?
+Do you believe in unicorn ?
